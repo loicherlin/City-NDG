@@ -33,10 +33,6 @@ Pour y parvenir, vous allez pouvoir placer, déplacer, remplacer et supprimer de
 
 ![image de la ville de base](https://i.ibb.co/wWY5vMV/Jeu-Presentation.jpg)
 
-## Lien vers la documentation 
-
-La documentation est disponible à cette endroit : https://git.unistra.fr/nom-du-groupe/t3-ren21-b/-/wikis/Documentation
-
 
 ## Instruction d'installation et de lancement 
 
