@@ -40,15 +40,7 @@ La documentation est disponible à cette endroit : https://git.unistra.fr/nom-du
 
 ## Instruction d'installation et de lancement 
 
-1. - Télécharger le jeu à cette endroit : https://shorturl.at/hsvL5
-
-2. - Une page Google Drive s'ouvre, cliquez sur le bouton "Télécharger" :
-
-![étape1](https://i.ibb.co/S0ZN8Kd/Install1.jpg)
-
-3. - Vous devez cliquer sur "Télécharger quand même"
-
-![étape1bis](https://i.ibb.co/FVxrvr3/Install2.jpg)
+1. - Télécharger le jeu sur GIT : City-NDG.exe
 
 3. - Vous pouvez ensuite enregistrer le fichier de setup de CityNDG :
 
